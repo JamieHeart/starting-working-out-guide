@@ -2,6 +2,8 @@
 
 When you begin a 5-day workout routine, you'll likely notice changes on the scale that might be confusing or unexpected. This guide explains normal weight fluctuations, what causes them, and how to properly interpret scale weight changes.
 
+> **💡 Pro Tip**: For a deeper understanding of how glycogen affects your weight and performance, check out our comprehensive [Understanding Glycogen](understanding-glycogen.md) guide.
+
 ## Normal Daily Weight Fluctuations
 
 ### Expected Range
@@ -12,7 +14,10 @@ When you begin a 5-day workout routine, you'll likely notice changes on the scal
 
 #### Water Retention
 - **Exercise-induced**: New or intense exercise can cause temporary water retention in muscles
-- **Carbohydrate intake**: Each gram of carbs stored as glycogen binds 3-4 grams of water
+- **Glycogen storage**: Each gram of glycogen (stored carbohydrate) binds 3-4 grams of water
+  - Full glycogen stores can hold 2.6-8 pounds of water
+  - Changes in carb intake directly affect glycogen and water weight
+  - New exercisers often see increased glycogen storage as their body adapts
 - **Sodium consumption**: High sodium meals can cause temporary water retention
 - **Hydration status**: Dehydration can paradoxically cause water retention
 
@@ -30,10 +35,12 @@ When you begin a 5-day workout routine, you'll likely notice changes on the scal
 
 ### Week 1-2: Initial Fluctuations
 - **Possible weight gain**: 1-3 pounds of water weight is common
-- **Cause**: Inflammation from new exercise stimulus and increased glycogen storage
+- **Primary cause**: Glycogen adaptation - your muscles begin storing more carbohydrate fuel
+- **Water binding**: This glycogen binds 3-4 times its weight in water
 - **What's happening**: Your body is adapting to the new demands and stress
 
 ### Week 3-4: Stabilization Phase
+- Glycogen stores reach their new, higher baseline
 - Water retention typically normalizes
 - True body composition changes begin to occur
 - Scale weight may still fluctuate but trends become more meaningful

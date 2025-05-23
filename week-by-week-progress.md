@@ -2,12 +2,16 @@
 
 Starting a 5-day workout routine is a journey with distinct phases. This guide outlines what you might experience during your first 8 weeks, helping you set realistic expectations and stay motivated through early challenges.
 
+> **💡 Fuel Systems**: Many early changes relate to how your body stores and uses glycogen (carb fuel). Learn more in our [Understanding Glycogen](understanding-glycogen.md) guide.
+
 ## Week 1: The Beginning
 
 **Physical Changes:**
 - Increased heart rate during activity
 - Possible muscle soreness (DOMS - Delayed Onset Muscle Soreness)
 - Potential fatigue as your body adjusts
+- **Glycogen adaptation**: Your muscles begin storing more carbohydrate fuel
+- **Weight fluctuations**: 1-3 pound increase possible due to glycogen and water storage
 
 **Mental Experience:**
 - Initial motivation and excitement
@@ -22,6 +26,7 @@ Starting a 5-day workout routine is a journey with distinct phases. This guide o
 **Tips:**
 - Take it easy - use lighter weights than you think necessary
 - Pay extra attention to recovery (sleep, hydration, nutrition)
+- **Don't panic about weight gain** - it's likely glycogen and water, not fat
 - Document your starting point (measurements, photos, fitness tests)
 
 ## Week 2: Adaptation Begins
@@ -30,6 +35,7 @@ Starting a 5-day workout routine is a journey with distinct phases. This guide o
 - Continued soreness but usually less intense
 - Improved coordination during exercises
 - Possibly feeling more tired than usual
+- **Glycogen stores stabilizing**: Your body continues adapting its fuel storage
 
 **Mental Experience:**
 - Initial motivation may wane slightly
@@ -44,7 +50,7 @@ Starting a 5-day workout routine is a journey with distinct phases. This guide o
 **Tips:**
 - Stick to the plan even if motivation decreases
 - Adjust workout intensity if soreness is excessive
-- Focus on post-workout nutrition
+- **Focus on post-workout nutrition** to support glycogen replenishment
 
 ## Week 3-4: Finding Your Rhythm
 
@@ -53,6 +59,7 @@ Starting a 5-day workout routine is a journey with distinct phases. This guide o
 - Reduced day-after soreness
 - Slight increases in strength and endurance
 - Potentially improved sleep quality
+- **Energy stabilization**: As glycogen adaptation completes, workout energy becomes more consistent
 
 **Mental Experience:**
 - Workouts becoming more automatic
@@ -67,6 +74,7 @@ Starting a 5-day workout routine is a journey with distinct phases. This guide o
 **Tips:**
 - Consider taking progress photos at the one-month mark
 - Reassess your routine and make minor adjustments if needed
+- **Pay attention to energy patterns** - note how pre-workout meals affect performance
 - Celebrate consistency milestones
 
 ## Week 5-6: Seeing Initial Results

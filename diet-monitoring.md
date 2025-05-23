@@ -2,6 +2,8 @@
 
 When starting a 5-day workout routine, finding the proper nutrition balance is crucial for progress. This guide will help you determine if you're eating the right amount for your goals and how to make adjustments as needed.
 
+> **💡 Understanding Fuel**: Low energy during workouts often relates to glycogen (stored carbs). Learn more in our [Understanding Glycogen](understanding-glycogen.md) guide.
+
 ## Signs You're Eating Too Little
 
 ### Physical Indicators
@@ -19,6 +21,11 @@ When starting a 5-day workout routine, finding the proper nutrition balance is c
 - Extended muscle soreness
 - Decreased endurance
 - Poor pumps during training
+- **Glycogen-related signs**:
+  - Sudden energy crashes mid-workout ("hitting the wall")
+  - Difficulty maintaining intensity after 15-20 minutes
+  - Mental fatigue and poor focus during training
+  - Flat, deflated muscles (poor muscle fullness)
 
 ### Body Composition Indicators
 - Weight loss exceeding 1-2 pounds per week (if not intentional)
@@ -61,6 +68,11 @@ When starting a 5-day workout routine, finding the proper nutrition balance is c
 - Good workout performance and endurance
 - Normal recovery between sessions (1-2 days for most muscle groups)
 - Ability to increase training volume over time
+- **Glycogen-related signs**:
+  - Sustained energy throughout entire workout
+  - Good muscle pumps during strength training
+  - Mental clarity and motivation during exercise
+  - Quick recovery between workout sets
 
 ### Body Composition Indicators
 - Weight stable or changing in line with goals (0.25-0.5lb/week gain for muscle building, 0.5-1lb/week loss for fat loss)

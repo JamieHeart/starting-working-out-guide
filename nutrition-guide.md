@@ -2,6 +2,8 @@
 
 Proper nutrition is essential for supporting your new 5-day workout routine. This guide provides fundamental nutritional strategies to fuel your workouts, support recovery, and help you achieve your fitness goals.
 
+> **💡 Related Reading**: Learn more about your body's primary fuel source in our [Understanding Glycogen](understanding-glycogen.md) guide.
+
 ## Fundamental Principles
 
 ### Caloric Requirements
@@ -25,6 +27,10 @@ Your caloric needs will depend on your goals:
 #### Carbohydrates
 - **Amount**: 3-7g per kg of bodyweight daily (higher for higher activity levels)
 - **Purpose**: Energy for workouts, muscle glycogen replenishment
+- **Glycogen connection**: Carbs are stored as glycogen in muscles and liver
+  - Glycogen is your primary fuel for moderate to high-intensity exercise
+  - Adequate carbs ensure optimal glycogen stores for performance
+  - Post-workout carbs replenish depleted glycogen stores
 - **Best sources**:
   - Whole grains (oats, brown rice, quinoa)
   - Starchy vegetables (potatoes, sweet potatoes)
@@ -45,13 +51,20 @@ Your caloric needs will depend on your goals:
 
 ### Pre-Workout Nutrition
 - Eat 1-3 hours before training
+- **Glycogen focus**: Ensure glycogen stores are topped off for optimal performance
 - Focus on carbohydrates with moderate protein
 - Keep fat and fiber lower to prevent digestive discomfort
+- **Specific recommendations**:
+  - 1-4g carbs per kg bodyweight for strength training
+  - 1-2g carbs per kg bodyweight for cardio/HIIT
 - Example: Oatmeal with banana and a scoop of protein powder
 
 ### Post-Workout Nutrition
 - Eat within 1-2 hours after training
+- **Glycogen replenishment priority**: This is when your muscles are most receptive to glycogen storage
 - Prioritize protein and carbohydrates
+- **Optimal ratio**: 3:1 or 4:1 carbs to protein for glycogen replenishment
+- **Immediate window (0-30 min)**: 1-1.5g carbs per kg bodyweight
 - Example: Chicken breast with rice and vegetables or protein shake with fruit
 
 ### Daily Meal Structure

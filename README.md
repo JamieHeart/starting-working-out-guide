@@ -10,6 +10,7 @@ Welcome to your comprehensive guide for beginning a 5-day workout routine! This 
 - [Diet Monitoring](diet-monitoring.md) - How to know if you're eating the right amount
 - [Understanding Weight Fluctuations](weight-fluctuations.md) - Normal changes in your body weight
 - [Understanding Glycogen](understanding-glycogen.md) - Your body's primary fuel source and its effects
+- [MTF HRT Considerations](hrt-mtf-considerations.md) - How hormone replacement therapy affects your fitness journey
 - [Combining Exercise Types](combining-exercises.md) - Creating balanced workout routines
 
 Each section provides actionable advice based on scientific principles to help you build a sustainable fitness habit. Remember that consistency is key, and small improvements over time lead to significant results.

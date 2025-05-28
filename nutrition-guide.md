@@ -4,6 +4,8 @@ Proper nutrition is essential for supporting your new 5-day workout routine. Thi
 
 > **💡 Related Reading**: Learn more about your body's primary fuel source in our [Understanding Glycogen](understanding-glycogen.md) guide.
 
+> **🏳️‍⚧️ HRT Users**: Those on MTF hormone replacement therapy have unique nutritional needs. See our [MTF HRT Considerations](hrt-mtf-considerations.md) guide for detailed information.
+
 ## Fundamental Principles
 
 ### Caloric Requirements
@@ -11,11 +13,13 @@ Your caloric needs will depend on your goals:
 - **Muscle building**: Moderate caloric surplus (200-300 calories above maintenance)
 - **Fat loss**: Moderate caloric deficit (300-500 calories below maintenance)
 - **Maintenance/performance**: Eat at caloric maintenance
+- **MTF HRT users**: May need 200-400 fewer calories daily due to metabolic changes
 
 ### Macronutrient Guidelines
 
 #### Protein
 - **Amount**: 1.6-2.2g per kg of bodyweight daily
+- **MTF HRT**: Increase to 2.0-2.4g per kg to support muscle preservation during hormonal changes
 - **Purpose**: Muscle repair, recovery, and building
 - **Sources**:
   - Lean meats (chicken, turkey, lean beef)
@@ -26,6 +30,7 @@ Your caloric needs will depend on your goals:
 
 #### Carbohydrates
 - **Amount**: 3-7g per kg of bodyweight daily (higher for higher activity levels)
+- **MTF HRT cycling**: Adjust based on injection cycles (4-6g on high-energy days, 2-3g on low-energy days)
 - **Purpose**: Energy for workouts, muscle glycogen replenishment
 - **Glycogen connection**: Carbs are stored as glycogen in muscles and liver
   - Glycogen is your primary fuel for moderate to high-intensity exercise
@@ -40,6 +45,7 @@ Your caloric needs will depend on your goals:
 #### Fats
 - **Amount**: 0.5-1g per kg of bodyweight daily
 - **Purpose**: Hormone production, vitamin absorption, joint health
+- **HRT consideration**: Essential fat intake important for overall hormone balance
 - **Quality sources**:
   - Avocados
   - Nuts and seeds
@@ -57,6 +63,7 @@ Your caloric needs will depend on your goals:
 - **Specific recommendations**:
   - 1-4g carbs per kg bodyweight for strength training
   - 1-2g carbs per kg bodyweight for cardio/HIIT
+- **HRT timing**: Adjust carb intake based on where you are in your hormone cycle
 - Example: Oatmeal with banana and a scoop of protein powder
 
 ### Post-Workout Nutrition
@@ -72,12 +79,44 @@ Your caloric needs will depend on your goals:
 - **Option 2**: 4-6 smaller, evenly spaced meals
 - Choose the approach that fits your lifestyle and hunger patterns
 
+## HRT-Specific Nutrition Considerations
+
+### Micronutrient Focus for HRT Users
+- **Iron**: Monitor levels as estrogen can affect iron metabolism
+- **Calcium and Vitamin D**: Critical for bone health during hormonal transition
+- **B-vitamins**: Support energy metabolism and mood regulation
+- **Magnesium**: May help with water retention, sleep, and mood
+- **Vitamin E**: Supports healthy hormone metabolism
+
+### Managing Water Retention
+- **Potassium-rich foods**: Bananas, potatoes, leafy greens help balance sodium
+- **Natural diuretics**: Cranberry juice, celery, cucumber (in moderation)
+- **Limit sodium**: Especially around injection days when water retention peaks
+- **Consistent hydration**: Don't restrict water; dehydration worsens retention
+
+### Cycle-Based Nutrition
+#### High-Energy Days (Post-Injection Days 1-2)
+- Higher carbohydrate intake (4-6g per kg)
+- Focus on performance nutrition
+- Take advantage of enhanced recovery capacity
+
+#### Moderate Days (Day 3 Mid-Cycle)
+- Balanced macronutrient distribution
+- Standard meal timing and portions
+
+#### Lower-Energy Days (Day 4 Pre-Injection)
+- Slightly reduced carbs (2-3g per kg) if energy is lower
+- Focus on comfort foods and self-care nutrition
+- Prioritize protein and healthy fats
+
 ## Hydration Guidelines
 
 - Baseline: Minimum 3-4 liters of water daily
 - Add 500-1000ml for each hour of exercise
+- **HRT users**: May need additional 500ml-1L daily due to hormonal effects on fluid balance
 - Signs of proper hydration: Clear to light yellow urine
 - Consider electrolyte supplementation during longer workouts
+- **Injection days**: Extra attention to hydration in first 24-48 hours post-injection
 
 ## Suggested Meal Plans
 
